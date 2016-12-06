@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					C9858F691DF6AFA9003E5C3D = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = BCU2N83A4H;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,7 +261,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = BCU2N83A4H;
 				INFOPLIST_FILE = DouYuTV/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = LW.DouYuTV;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -272,7 +276,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = BCU2N83A4H;
 				INFOPLIST_FILE = DouYuTV/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = LW.DouYuTV;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -299,6 +306,7 @@
 				C9858F7E1DF6AFA9003E5C3D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
