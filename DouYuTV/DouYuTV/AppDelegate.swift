@@ -18,6 +18,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         UITabBar.appearance().tintColor = UIColor.orange;
         
+        UINavigationBar.appearance().barTintColor = UIColor.orange;
+        
         return true
     }
 

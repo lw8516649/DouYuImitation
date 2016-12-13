@@ -6,10 +6,10 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--Home View Controller-->
         <scene sceneID="0fZ-Gl-qE8">
             <objects>
-                <viewController id="NnB-LF-JWV" sceneMemberID="viewController">
+                <viewController id="NnB-LF-JWV" customClass="HomeViewController" customModule="DouYuTV" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="uBB-rr-lKF"/>
                         <viewControllerLayoutGuide type="bottom" id="KmG-Z3-EIO"/>
